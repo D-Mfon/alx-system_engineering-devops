@@ -1,1 +1,1 @@
-4-listmorefiles display current directory contents, including hidden files.
+5-listfilesdigitonly displays current directory contents in a long format along with user and group IDs displayed numerically and hidden files.
