@@ -1,1 +1,1 @@
-4-lastlines display the last 10 lines of /etc/passwd
+6-third_line displays the third line of the file iacta.
