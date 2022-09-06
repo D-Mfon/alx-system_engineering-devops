@@ -1,1 +1,1 @@
-1-hello_you prints hello user, where user is the current Linux user.
+7-create_global_variable creates a new global variable.
